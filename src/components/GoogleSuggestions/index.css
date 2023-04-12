@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.whiteCard {
+  background-color: white;
+  box-shadow: black;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.googleImage {
+  height: 75px;
+  width: 85px;
+}
+input {
+  height: 15px;
+  width: 160px;
+  margin: 17px;
+}
+.search {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

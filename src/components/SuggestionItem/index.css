@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.order {
+  display: flex;
+  flex-direction: column;
+}
+.arrow {
+  height: 18px;
+  width: 18px;
+}
